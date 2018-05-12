@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43076'
     url: http://www.gutenberg.org/2009/agents/43076
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45079#The-Art-of-Graining--How-Acquired-and-how-Produced.With-the-description-of-colors-and-their-a_
 gutenberg_issued: '2014-03-08'
 gutenberg_type: Text
 identifiers:
