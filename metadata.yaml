@@ -1,0 +1,29 @@
+_repo: The-Art-of-Graining--How-Acquired-and-how-Produced.With-the-description-of-colors-and-their-a__45079
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45079-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Metcalf, A.
+    gutenberg_agent_id: '43077'
+    url: http://www.gutenberg.org/2009/agents/43077
+  - agent_name: Pickert, Charles
+    gutenberg_agent_id: '43076'
+    url: http://www.gutenberg.org/2009/agents/43076
+description: ''
+gutenberg_issued: '2014-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45079'
+  lccn: '43042175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TT'
+- !lcsh 'Graining'
+title: "The Art of Graining: How Acquired and How Produced.\r\nWith the description\
+  \ of colors and their applications."
+url: http://www.gutenberg.org/ebooks/45079
